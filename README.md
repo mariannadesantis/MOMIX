@@ -15,20 +15,12 @@ please install GUROBI and INTLAB on your PC
 
 ==============================================================
 
-The repository provides the following folders:
+The repository provides
 
-1)test instances : within "test instances" you can find
-                   the instances as .m files used for
-                   the numerical experiments in [1]:
-                   (T1),(T2),(T3),(T4),(T5),(T6).
+1) the test instances (as .m files) used for the numerical 
+   experiments in [1]:(T1),(T2),(T3),(T4),(T5),(T6).
 
-2)savefiles : is the folder where the results are stored
-
-==============================================================
-
-
-
-The directory  further provides the following files:
+2) the following .m files for running MOMIX:
 
 - start_session.m : in order to start the code, it is necessary to start INTLAB and GUROBI
                     change the directories according to give the proper links
@@ -82,4 +74,4 @@ MATLAB files for the plot:
 
 ...enjoy, buon divertimento, viel Spass :-)
 
-
+==============================================================
