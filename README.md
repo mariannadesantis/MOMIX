@@ -13,7 +13,7 @@ In case you want to reproduce the results on your own machine,
 please install GUROBI and INTLAB on your PC
 
 
-==============================================================
+=========================================================================================
 
 The repository provides
 
@@ -74,4 +74,4 @@ MATLAB files for the plot:
 
 ...enjoy, buon divertimento, viel Spass :-)
 
-==============================================================
+====================================================================================================
